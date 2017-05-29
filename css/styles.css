@@ -81,6 +81,10 @@ header .contenedor .texto .titulo {
     display: block;
 }
 
+.main .pelicula .contenedor .foto img:hover {
+    opacity: 0.8;
+}
+
 .main .pelicula .contenedor .reparto ul li[famoso='principal'] {
     font-weight: bold;
 }
